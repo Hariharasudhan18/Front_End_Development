@@ -1,0 +1,54 @@
+h1{
+    color: red
+}
+
+/*YOUR CODE GOES IN HERE*/
+h2{
+    font-family: monospace;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: underline wavy plum;
+    text-transform: uppercase;
+    
+}
+
+
+/* Make all LI's blue */
+li{
+    color: blue;
+}
+/* Make everything with the class of 'done' grey*/
+.done{
+    color: grey;
+}
+/* Make the element with the id of 'clear' have a red BG and white text */
+#clear{
+    background: red;
+    color: white;
+}
+
+/* WRITE YOUR CODE IN HERE!!!!  */
+.square:nth-of-type(2n) {
+    background-color: black;
+}
+
+.square{
+    background-color: red;
+}
+
+/* YOUR CODE GOES IN HERE */
+
+div{
+    width: 210px;
+    text-align: center;
+    border: 1px grey solid;
+    border-radius: 5px;
+}
+
+img{
+    width: 200px;
+    border: 5px rgb(236, 183, 191) solid;
+    border-radius: 50%;
+}
